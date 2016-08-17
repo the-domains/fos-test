@@ -1,0 +1,14 @@
+layout_spectrum: 0.7263791966252029
+typography_spectrum: 0.6203612913377583
+color:
+  brandStrength: 0.03946576896123588
+  lightness: 0.6205712414812297
+  saturation: 0.7021087931934744
+  rhythmicContrast: 0.08169839298352599
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+name: FOS Test
